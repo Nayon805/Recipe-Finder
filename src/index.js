@@ -12,7 +12,7 @@ elements.forEach((element) => {
 });
 
 var typed = new Typed('.auto-type', {
-    strings: [" 🍳 Welcome 👋 to Nasim and Mrinmoy's kitchen 🍽️"],
+    strings: [" 🍳 Welcome 👋 to Noyon's kitchen 🍽️"],
     typeSpeed: 19,
     startDelay: 2000,
     showCursor: false,
@@ -31,13 +31,13 @@ function moreDesctoWelcome() {
     const moreDesctoWelcome_content =
         ` 
         <p id="auto-desc" class="auto-desc">
-        <span class="st"> <span class="emoji">🌟</span> Step into a world where flavors dance and aromas enchant – welcome to Nasim and Mrinmoy's kitchen, where every recipe is a journey and every dish tells a story. We're delighted to have you here, ready to embark on a culinary adventure like no other.
+        <span class="st"> <span class="emoji">🌟</span> Step into a world where flavors dance and aromas enchant – welcome to Noyon's kitchen, where every recipe is a journey and every dish tells a story. We're delighted to have you here, ready to embark on a culinary adventure like no other.
         </span>
-        <span class="st"><span class="emoji">🍲</span> At Nasim and Mrinmoy's kitchen, we're more than just a collection of recipes; we're a community of food enthusiasts, passionate about sharing the joy of cooking. Whether you're a seasoned chef or a kitchen newbie, our diverse array of recipes caters to every taste, skill level, and craving.
+        <span class="st"><span class="emoji">🍲</span> At Noyon's kitchen, we're more than just a collection of recipes; we're a community of food enthusiasts, passionate about sharing the joy of cooking. Whether you're a seasoned chef or a kitchen newbie, our diverse array of recipes caters to every taste, skill level, and craving.
         </span>
         <span class="st"><span class="emoji">👩‍🍳</span> Explore our carefully selection of dishes, from quick and easy weeknight dinners to desserts that celebrate life's sweet moments. Our step-by-step guides ensure that every recipe is not just a set of instructions but a personal cooking experience..
         </span>
-        <span class="st"><span class="emoji">🍽️</span> Join us in celebrating the art of cooking, because in Nasim and Mrinmoy's kitchen, every meal is an opportunity to create something extraordinary. Get ready to embark on a culinary journey that tantalizes your taste buds and inspires your inner chef.</span>
+        <span class="st"><span class="emoji">🍽️</span> Join us in celebrating the art of cooking, because in Noyon's kitchen, every meal is an opportunity to create something extraordinary. Get ready to embark on a culinary journey that tantalizes your taste buds and inspires your inner chef.</span>
         </p> <p class="auto-button-p"> <a href="#recipe-selection-area" class="auto-button">lets get started! <span class="material-symbols-outlined down-arrow">arrow_downward</span></a> </p>
         `;
 
